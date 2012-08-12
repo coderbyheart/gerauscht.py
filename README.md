@@ -8,6 +8,10 @@ Python-Script dass aus mithilfe einer Vorlage ein gerauschtes, leicht eingefärb
 
 ## Beispiel
 
-![in](cbh.png)
+### Eingabe
 
-![out](out.png)
+![in](https://raw.github.com/tacker/gerauscht.py/master/cbh.png)
+
+### Ausgabe
+
+![out](https://raw.github.com/tacker/gerauscht.py/master/out.png)
